@@ -1,0 +1,207 @@
+2021-12-21 22:17:47 INFO  BaseClass :: BeforeSuite:: setting up extent report
+2021-12-21 22:17:47 INFO  BaseClass :: BeforeSuite:: Initializing soft assertion
+2021-12-21 22:17:47 INFO  CustomITestListener :: onStart method started TestNGNAME
+2021-12-21 22:17:47 INFO  BaseClass :: beforeTest
+2021-12-21 22:17:47 INFO  BaseClass :: @BeforeClass:: getting driverInstance
+2021-12-21 22:17:50 INFO  BaseClass :: @BeforeClass:: initializing TakeScreenshotUtils
+2021-12-21 22:17:50 INFO  BaseClass :: BeforeClass:: Loading applicationUrl
+2021-12-21 22:17:51 INFO  BaseClass :: BeforeClass:: Initializing PageObjectManager
+2021-12-21 22:17:51 INFO  BaseClass :: BeforeClass:: setting up excel file for test-data
+2021-12-21 22:17:51 INFO  BaseClass :: BeforeMethod :: Creating extent test for test1
+2021-12-21 22:17:51 INFO  CustomITestListener :: New Test Started test1
+2021-12-21 22:17:51 INFO  Test1Class :: test1 Method :: excelData
+2021-12-21 22:17:51 INFO   Totoal todos items [ITEM1, ITEM2, ITEM3, ITEM4]
+2021-12-21 22:17:52 INFO  CustomITestListener :: onTestSuccess Method test1
+2021-12-21 22:17:52 INFO  AfterMethod:: Finished test ::: test1
+2021-12-21 22:17:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:52 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:17:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:52 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:52 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:17:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:52 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:52 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:17:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:52 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test3
+2021-12-21 22:17:52 INFO  CustomITestListener :: New Test Started test3
+2021-12-21 22:17:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52 INFO  CustomITestListener :: onTestSuccess Method test3
+2021-12-21 22:17:52 INFO  AfterMethod:: Finished test ::: test3
+2021-12-21 22:17:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test4
+2021-12-21 22:17:52 INFO  CustomITestListener :: New Test Started test4
+2021-12-21 22:17:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52 INFO  CustomITestListener :: onTestSuccess Method test4
+2021-12-21 22:17:52 INFO  AfterMethod:: Finished test ::: test4
+2021-12-21 22:17:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test5
+2021-12-21 22:17:52 INFO  CustomITestListener :: New Test Started test5
+2021-12-21 22:17:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:53 INFO  CustomITestListener :: onTestSuccess Method test5
+2021-12-21 22:17:53 INFO  AfterMethod:: Finished test ::: test5
+2021-12-21 22:17:53 INFO  BaseClass :: @AfterClass:: closing driverInstance
+2021-12-21 22:17:53 INFO  BaseClass :: @BeforeClass:: getting driverInstance
+2021-12-21 22:17:55 INFO  BaseClass :: @BeforeClass:: initializing TakeScreenshotUtils
+2021-12-21 22:17:55 INFO  BaseClass :: BeforeClass:: Loading applicationUrl
+2021-12-21 22:17:56 INFO  BaseClass :: BeforeClass:: Initializing PageObjectManager
+2021-12-21 22:17:56 INFO  BaseClass :: BeforeClass:: setting up excel file for test-data
+2021-12-21 22:17:56 INFO  BaseClass :: BeforeMethod :: Creating extent test for test1
+2021-12-21 22:17:56 INFO  CustomITestListener :: New Test Started test1
+2021-12-21 22:17:56 INFO  Test1Class :: test1 Method :: excelData
+2021-12-21 22:17:56 INFO   Totoal todos items [ITEM1, ITEM2, ITEM3, ITEM4]
+2021-12-21 22:17:56 INFO  CustomITestListener :: onTestSuccess Method test1
+2021-12-21 22:17:56 INFO  AfterMethod:: Finished test ::: test1
+2021-12-21 22:17:56 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:56 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:17:56 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:57 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:57 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:57 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:17:57 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:57 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:57 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:57 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:17:57 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:57 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:57 INFO  BaseClass :: BeforeMethod :: Creating extent test for test3
+2021-12-21 22:17:57 INFO  CustomITestListener :: New Test Started test3
+2021-12-21 22:17:57 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57 INFO  CustomITestListener :: onTestSuccess Method test3
+2021-12-21 22:17:57 INFO  AfterMethod:: Finished test ::: test3
+2021-12-21 22:17:57 INFO  BaseClass :: BeforeMethod :: Creating extent test for test4
+2021-12-21 22:17:57 INFO  CustomITestListener :: New Test Started test4
+2021-12-21 22:17:57 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57 INFO  CustomITestListener :: onTestSuccess Method test4
+2021-12-21 22:17:57 INFO  AfterMethod:: Finished test ::: test4
+2021-12-21 22:17:57 INFO  BaseClass :: BeforeMethod :: Creating extent test for test5
+2021-12-21 22:17:57 INFO  CustomITestListener :: New Test Started test5
+2021-12-21 22:17:57 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57 INFO  CustomITestListener :: onTestSuccess Method test5
+2021-12-21 22:17:57 INFO  AfterMethod:: Finished test ::: test5
+2021-12-21 22:17:57 INFO  BaseClass :: @AfterClass:: closing driverInstance
+2021-12-21 22:17:58 INFO  BaseClass :: afterTest
+2021-12-21 22:17:58 INFO  CustomITestListener :: onFinish method started TestNGNAME
+2021-12-21 22:17:58 INFO  BaseClass :: AfterSuite:: flushing extent report
+2021-12-21 22:17:58 INFO  BaseClass :: AfterSuite:: softAssert.assertAll()
+2021-12-21 22:17:58 INFO  BaseClass :: AfterSuite:: Opening the report automatically using Desktop class of the java.awt
+2021-12-21 22:18:47 INFO  CustomITestListener :: onStart method started Test
+2021-12-21 22:18:47 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:18:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:18:47 INFO  CustomITestListener :: onTestFailure Method test2
+2021-12-21 22:18:47 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:18:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:18:47 INFO  CustomITestListener :: onTestFailure Method test2
+2021-12-21 22:18:47 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:18:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:18:47 INFO  CustomITestListener :: onTestFailure Method test2
+2021-12-21 22:18:47 INFO  CustomITestListener :: onFinish method started Test
+2021-12-21 22:19:00 INFO  CustomITestListener :: onStart method started Test
+2021-12-21 22:19:00 INFO  CustomITestListener :: New Test Started test1
+2021-12-21 22:19:00 INFO  Test1Class :: test1 Method :: excelData
+2021-12-21 22:19:00 INFO  CustomITestListener :: onTestFailure Method test1
+2021-12-21 22:19:00 INFO  CustomITestListener :: onFinish method started Test
+2021-12-21 22:19:16 INFO  CustomITestListener :: onStart method started Test
+2021-12-21 22:19:16 INFO  CustomITestListener :: New Test Started test1
+2021-12-21 22:19:16 INFO  Test1Class :: test1 Method :: excelData
+2021-12-21 22:19:16 INFO  CustomITestListener :: onTestFailure Method test1
+2021-12-21 22:19:16 INFO  CustomITestListener :: onFinish method started Test
+2021-12-21 22:19:43 INFO  BaseClass :: BeforeSuite:: setting up extent report
+2021-12-21 22:19:43 INFO  BaseClass :: BeforeSuite:: Initializing soft assertion
+2021-12-21 22:19:43 INFO  CustomITestListener :: onStart method started TestNGNAME
+2021-12-21 22:19:43 INFO  BaseClass :: beforeTest
+2021-12-21 22:19:43 INFO  BaseClass :: @BeforeClass:: getting driverInstance
+2021-12-21 22:19:45 INFO  BaseClass :: @BeforeClass:: initializing TakeScreenshotUtils
+2021-12-21 22:19:46 INFO  BaseClass :: BeforeClass:: Loading applicationUrl
+2021-12-21 22:19:46 INFO  BaseClass :: BeforeClass:: Initializing PageObjectManager
+2021-12-21 22:19:46 INFO  BaseClass :: BeforeClass:: setting up excel file for test-data
+2021-12-21 22:19:46 INFO  BaseClass :: BeforeMethod :: Creating extent test for test1
+2021-12-21 22:19:46 INFO  CustomITestListener :: New Test Started test1
+2021-12-21 22:19:46 INFO  Test1Class :: test1 Method :: excelData
+2021-12-21 22:19:46 INFO   Totoal todos items [ITEM1, ITEM2, ITEM3, ITEM4]
+2021-12-21 22:19:47 INFO  CustomITestListener :: onTestSuccess Method test1
+2021-12-21 22:19:47 INFO  AfterMethod:: Finished test ::: test1
+2021-12-21 22:19:47 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:47 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:19:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:47 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:47 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:47 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:19:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:47 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:47 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:47 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:19:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:47 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:47 INFO  BaseClass :: BeforeMethod :: Creating extent test for test3
+2021-12-21 22:19:47 INFO  CustomITestListener :: New Test Started test3
+2021-12-21 22:19:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47 INFO  CustomITestListener :: onTestSuccess Method test3
+2021-12-21 22:19:47 INFO  AfterMethod:: Finished test ::: test3
+2021-12-21 22:19:47 INFO  BaseClass :: BeforeMethod :: Creating extent test for test4
+2021-12-21 22:19:47 INFO  CustomITestListener :: New Test Started test4
+2021-12-21 22:19:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47 INFO  CustomITestListener :: onTestSuccess Method test4
+2021-12-21 22:19:47 INFO  AfterMethod:: Finished test ::: test4
+2021-12-21 22:19:47 INFO  BaseClass :: BeforeMethod :: Creating extent test for test5
+2021-12-21 22:19:47 INFO  CustomITestListener :: New Test Started test5
+2021-12-21 22:19:47 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:48 INFO  CustomITestListener :: onTestSuccess Method test5
+2021-12-21 22:19:48 INFO  AfterMethod:: Finished test ::: test5
+2021-12-21 22:19:48 INFO  BaseClass :: @AfterClass:: closing driverInstance
+2021-12-21 22:19:48 INFO  BaseClass :: @BeforeClass:: getting driverInstance
+2021-12-21 22:19:50 INFO  BaseClass :: @BeforeClass:: initializing TakeScreenshotUtils
+2021-12-21 22:19:50 INFO  BaseClass :: BeforeClass:: Loading applicationUrl
+2021-12-21 22:19:51 INFO  BaseClass :: BeforeClass:: Initializing PageObjectManager
+2021-12-21 22:19:51 INFO  BaseClass :: BeforeClass:: setting up excel file for test-data
+2021-12-21 22:19:51 INFO  BaseClass :: BeforeMethod :: Creating extent test for test1
+2021-12-21 22:19:51 INFO  CustomITestListener :: New Test Started test1
+2021-12-21 22:19:51 INFO  Test1Class :: test1 Method :: excelData
+2021-12-21 22:19:51 INFO   Totoal todos items [ITEM1, ITEM2, ITEM3, ITEM4]
+2021-12-21 22:19:51 INFO  CustomITestListener :: onTestSuccess Method test1
+2021-12-21 22:19:51 INFO  AfterMethod:: Finished test ::: test1
+2021-12-21 22:19:51 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:51 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:19:51 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:51 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:51 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:51 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:51 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:19:51 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:51 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:51 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:51 INFO  BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:51 INFO  CustomITestListener :: New Test Started test2
+2021-12-21 22:19:51 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:52 INFO  CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:52 INFO  AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test3
+2021-12-21 22:19:52 INFO  CustomITestListener :: New Test Started test3
+2021-12-21 22:19:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:52 INFO  CustomITestListener :: onTestSuccess Method test3
+2021-12-21 22:19:52 INFO  AfterMethod:: Finished test ::: test3
+2021-12-21 22:19:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test4
+2021-12-21 22:19:52 INFO  CustomITestListener :: New Test Started test4
+2021-12-21 22:19:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:52 INFO  CustomITestListener :: onTestSuccess Method test4
+2021-12-21 22:19:52 INFO  AfterMethod:: Finished test ::: test4
+2021-12-21 22:19:52 INFO  BaseClass :: BeforeMethod :: Creating extent test for test5
+2021-12-21 22:19:52 INFO  CustomITestListener :: New Test Started test5
+2021-12-21 22:19:52 INFO  Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:52 INFO  CustomITestListener :: onTestSuccess Method test5
+2021-12-21 22:19:52 INFO  AfterMethod:: Finished test ::: test5
+2021-12-21 22:19:52 INFO  BaseClass :: @AfterClass:: closing driverInstance
+2021-12-21 22:19:53 INFO  BaseClass :: afterTest
+2021-12-21 22:19:53 INFO  CustomITestListener :: onFinish method started TestNGNAME
+2021-12-21 22:19:53 INFO  BaseClass :: AfterSuite:: flushing extent report
+2021-12-21 22:19:53 INFO  BaseClass :: AfterSuite:: softAssert.assertAll()
+2021-12-21 22:19:53 INFO  BaseClass :: AfterSuite:: Opening the report automatically using Desktop class of the java.awt

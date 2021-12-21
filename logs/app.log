@@ -1,0 +1,207 @@
+2021-12-21 22:17:47,023 INFO u.Log [main] BaseClass :: BeforeSuite:: setting up extent report
+2021-12-21 22:17:47,301 INFO u.Log [main] BaseClass :: BeforeSuite:: Initializing soft assertion
+2021-12-21 22:17:47,304 INFO u.Log [main] CustomITestListener :: onStart method started TestNGNAME
+2021-12-21 22:17:47,306 INFO u.Log [main] BaseClass :: beforeTest
+2021-12-21 22:17:47,325 INFO u.Log [main] BaseClass :: @BeforeClass:: getting driverInstance
+2021-12-21 22:17:50,268 INFO u.Log [main] BaseClass :: @BeforeClass:: initializing TakeScreenshotUtils
+2021-12-21 22:17:50,313 INFO u.Log [main] BaseClass :: BeforeClass:: Loading applicationUrl
+2021-12-21 22:17:51,039 INFO u.Log [main] BaseClass :: BeforeClass:: Initializing PageObjectManager
+2021-12-21 22:17:51,061 INFO u.Log [main] BaseClass :: BeforeClass:: setting up excel file for test-data
+2021-12-21 22:17:51,729 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test1
+2021-12-21 22:17:51,741 INFO u.Log [main] CustomITestListener :: New Test Started test1
+2021-12-21 22:17:51,747 INFO u.Log [main] Test1Class :: test1 Method :: excelData
+2021-12-21 22:17:51,753 INFO u.Log [main]  Totoal todos items [ITEM1, ITEM2, ITEM3, ITEM4]
+2021-12-21 22:17:52,306 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test1
+2021-12-21 22:17:52,308 INFO u.Log [main] AfterMethod:: Finished test ::: test1
+2021-12-21 22:17:52,314 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:52,315 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:17:52,317 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52,418 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:52,420 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:52,421 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:52,422 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:17:52,423 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52,524 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:52,526 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:52,527 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:52,528 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:17:52,529 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52,631 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:52,633 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:52,634 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test3
+2021-12-21 22:17:52,635 INFO u.Log [main] CustomITestListener :: New Test Started test3
+2021-12-21 22:17:52,637 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52,783 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test3
+2021-12-21 22:17:52,784 INFO u.Log [main] AfterMethod:: Finished test ::: test3
+2021-12-21 22:17:52,786 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test4
+2021-12-21 22:17:52,786 INFO u.Log [main] CustomITestListener :: New Test Started test4
+2021-12-21 22:17:52,787 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:52,878 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test4
+2021-12-21 22:17:52,879 INFO u.Log [main] AfterMethod:: Finished test ::: test4
+2021-12-21 22:17:52,880 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test5
+2021-12-21 22:17:52,881 INFO u.Log [main] CustomITestListener :: New Test Started test5
+2021-12-21 22:17:52,882 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:53,438 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test5
+2021-12-21 22:17:53,443 INFO u.Log [main] AfterMethod:: Finished test ::: test5
+2021-12-21 22:17:53,463 INFO u.Log [main] BaseClass :: @AfterClass:: closing driverInstance
+2021-12-21 22:17:53,800 INFO u.Log [main] BaseClass :: @BeforeClass:: getting driverInstance
+2021-12-21 22:17:55,759 INFO u.Log [main] BaseClass :: @BeforeClass:: initializing TakeScreenshotUtils
+2021-12-21 22:17:55,763 INFO u.Log [main] BaseClass :: BeforeClass:: Loading applicationUrl
+2021-12-21 22:17:56,355 INFO u.Log [main] BaseClass :: BeforeClass:: Initializing PageObjectManager
+2021-12-21 22:17:56,356 INFO u.Log [main] BaseClass :: BeforeClass:: setting up excel file for test-data
+2021-12-21 22:17:56,385 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test1
+2021-12-21 22:17:56,386 INFO u.Log [main] CustomITestListener :: New Test Started test1
+2021-12-21 22:17:56,386 INFO u.Log [main] Test1Class :: test1 Method :: excelData
+2021-12-21 22:17:56,388 INFO u.Log [main]  Totoal todos items [ITEM1, ITEM2, ITEM3, ITEM4]
+2021-12-21 22:17:56,941 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test1
+2021-12-21 22:17:56,943 INFO u.Log [main] AfterMethod:: Finished test ::: test1
+2021-12-21 22:17:56,944 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:56,944 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:17:56,945 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57,043 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:57,044 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:57,045 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:57,046 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:17:57,047 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57,148 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:57,149 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:57,150 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:17:57,151 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:17:57,152 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57,252 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:17:57,254 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:17:57,255 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test3
+2021-12-21 22:17:57,255 INFO u.Log [main] CustomITestListener :: New Test Started test3
+2021-12-21 22:17:57,256 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57,395 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test3
+2021-12-21 22:17:57,396 INFO u.Log [main] AfterMethod:: Finished test ::: test3
+2021-12-21 22:17:57,397 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test4
+2021-12-21 22:17:57,397 INFO u.Log [main] CustomITestListener :: New Test Started test4
+2021-12-21 22:17:57,398 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57,500 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test4
+2021-12-21 22:17:57,501 INFO u.Log [main] AfterMethod:: Finished test ::: test4
+2021-12-21 22:17:57,502 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test5
+2021-12-21 22:17:57,503 INFO u.Log [main] CustomITestListener :: New Test Started test5
+2021-12-21 22:17:57,503 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:17:57,875 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test5
+2021-12-21 22:17:57,876 INFO u.Log [main] AfterMethod:: Finished test ::: test5
+2021-12-21 22:17:57,877 INFO u.Log [main] BaseClass :: @AfterClass:: closing driverInstance
+2021-12-21 22:17:58,267 INFO u.Log [main] BaseClass :: afterTest
+2021-12-21 22:17:58,268 INFO u.Log [main] CustomITestListener :: onFinish method started TestNGNAME
+2021-12-21 22:17:58,313 INFO u.Log [main] BaseClass :: AfterSuite:: flushing extent report
+2021-12-21 22:17:58,791 INFO u.Log [main] BaseClass :: AfterSuite:: softAssert.assertAll()
+2021-12-21 22:17:58,791 INFO u.Log [main] BaseClass :: AfterSuite:: Opening the report automatically using Desktop class of the java.awt
+2021-12-21 22:18:47,359 INFO u.Log [main] CustomITestListener :: onStart method started Test
+2021-12-21 22:18:47,393 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:18:47,397 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:18:47,400 INFO u.Log [main] CustomITestListener :: onTestFailure Method test2
+2021-12-21 22:18:47,403 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:18:47,404 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:18:47,404 INFO u.Log [main] CustomITestListener :: onTestFailure Method test2
+2021-12-21 22:18:47,406 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:18:47,407 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:18:47,408 INFO u.Log [main] CustomITestListener :: onTestFailure Method test2
+2021-12-21 22:18:47,412 INFO u.Log [main] CustomITestListener :: onFinish method started Test
+2021-12-21 22:19:00,000 INFO u.Log [main] CustomITestListener :: onStart method started Test
+2021-12-21 22:19:00,029 INFO u.Log [main] CustomITestListener :: New Test Started test1
+2021-12-21 22:19:00,035 INFO u.Log [main] Test1Class :: test1 Method :: excelData
+2021-12-21 22:19:00,042 INFO u.Log [main] CustomITestListener :: onTestFailure Method test1
+2021-12-21 22:19:00,047 INFO u.Log [main] CustomITestListener :: onFinish method started Test
+2021-12-21 22:19:16,911 INFO u.Log [main] CustomITestListener :: onStart method started Test
+2021-12-21 22:19:16,938 INFO u.Log [main] CustomITestListener :: New Test Started test1
+2021-12-21 22:19:16,943 INFO u.Log [main] Test1Class :: test1 Method :: excelData
+2021-12-21 22:19:16,949 INFO u.Log [main] CustomITestListener :: onTestFailure Method test1
+2021-12-21 22:19:16,954 INFO u.Log [main] CustomITestListener :: onFinish method started Test
+2021-12-21 22:19:43,157 INFO u.Log [main] BaseClass :: BeforeSuite:: setting up extent report
+2021-12-21 22:19:43,349 INFO u.Log [main] BaseClass :: BeforeSuite:: Initializing soft assertion
+2021-12-21 22:19:43,351 INFO u.Log [main] CustomITestListener :: onStart method started TestNGNAME
+2021-12-21 22:19:43,353 INFO u.Log [main] BaseClass :: beforeTest
+2021-12-21 22:19:43,368 INFO u.Log [main] BaseClass :: @BeforeClass:: getting driverInstance
+2021-12-21 22:19:45,996 INFO u.Log [main] BaseClass :: @BeforeClass:: initializing TakeScreenshotUtils
+2021-12-21 22:19:46,050 INFO u.Log [main] BaseClass :: BeforeClass:: Loading applicationUrl
+2021-12-21 22:19:46,392 INFO u.Log [main] BaseClass :: BeforeClass:: Initializing PageObjectManager
+2021-12-21 22:19:46,417 INFO u.Log [main] BaseClass :: BeforeClass:: setting up excel file for test-data
+2021-12-21 22:19:46,882 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test1
+2021-12-21 22:19:46,913 INFO u.Log [main] CustomITestListener :: New Test Started test1
+2021-12-21 22:19:46,918 INFO u.Log [main] Test1Class :: test1 Method :: excelData
+2021-12-21 22:19:46,923 INFO u.Log [main]  Totoal todos items [ITEM1, ITEM2, ITEM3, ITEM4]
+2021-12-21 22:19:47,413 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test1
+2021-12-21 22:19:47,415 INFO u.Log [main] AfterMethod:: Finished test ::: test1
+2021-12-21 22:19:47,420 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:47,420 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:19:47,422 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47,513 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:47,515 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:47,516 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:47,516 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:19:47,518 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47,612 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:47,614 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:47,615 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:47,616 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:19:47,617 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47,712 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:47,713 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:47,715 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test3
+2021-12-21 22:19:47,715 INFO u.Log [main] CustomITestListener :: New Test Started test3
+2021-12-21 22:19:47,716 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47,833 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test3
+2021-12-21 22:19:47,834 INFO u.Log [main] AfterMethod:: Finished test ::: test3
+2021-12-21 22:19:47,835 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test4
+2021-12-21 22:19:47,836 INFO u.Log [main] CustomITestListener :: New Test Started test4
+2021-12-21 22:19:47,838 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:47,926 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test4
+2021-12-21 22:19:47,927 INFO u.Log [main] AfterMethod:: Finished test ::: test4
+2021-12-21 22:19:47,928 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test5
+2021-12-21 22:19:47,929 INFO u.Log [main] CustomITestListener :: New Test Started test5
+2021-12-21 22:19:47,930 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:48,328 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test5
+2021-12-21 22:19:48,329 INFO u.Log [main] AfterMethod:: Finished test ::: test5
+2021-12-21 22:19:48,331 INFO u.Log [main] BaseClass :: @AfterClass:: closing driverInstance
+2021-12-21 22:19:48,619 INFO u.Log [main] BaseClass :: @BeforeClass:: getting driverInstance
+2021-12-21 22:19:50,695 INFO u.Log [main] BaseClass :: @BeforeClass:: initializing TakeScreenshotUtils
+2021-12-21 22:19:50,710 INFO u.Log [main] BaseClass :: BeforeClass:: Loading applicationUrl
+2021-12-21 22:19:51,273 INFO u.Log [main] BaseClass :: BeforeClass:: Initializing PageObjectManager
+2021-12-21 22:19:51,274 INFO u.Log [main] BaseClass :: BeforeClass:: setting up excel file for test-data
+2021-12-21 22:19:51,299 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test1
+2021-12-21 22:19:51,300 INFO u.Log [main] CustomITestListener :: New Test Started test1
+2021-12-21 22:19:51,300 INFO u.Log [main] Test1Class :: test1 Method :: excelData
+2021-12-21 22:19:51,301 INFO u.Log [main]  Totoal todos items [ITEM1, ITEM2, ITEM3, ITEM4]
+2021-12-21 22:19:51,779 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test1
+2021-12-21 22:19:51,781 INFO u.Log [main] AfterMethod:: Finished test ::: test1
+2021-12-21 22:19:51,782 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:51,783 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:19:51,784 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:51,881 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:51,883 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:51,883 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:51,884 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:19:51,884 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:51,978 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:51,979 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:51,980 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test2
+2021-12-21 22:19:51,980 INFO u.Log [main] CustomITestListener :: New Test Started test2
+2021-12-21 22:19:51,981 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:52,079 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test2
+2021-12-21 22:19:52,080 INFO u.Log [main] AfterMethod:: Finished test ::: test2
+2021-12-21 22:19:52,081 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test3
+2021-12-21 22:19:52,081 INFO u.Log [main] CustomITestListener :: New Test Started test3
+2021-12-21 22:19:52,083 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:52,201 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test3
+2021-12-21 22:19:52,202 INFO u.Log [main] AfterMethod:: Finished test ::: test3
+2021-12-21 22:19:52,203 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test4
+2021-12-21 22:19:52,203 INFO u.Log [main] CustomITestListener :: New Test Started test4
+2021-12-21 22:19:52,204 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:52,334 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test4
+2021-12-21 22:19:52,335 INFO u.Log [main] AfterMethod:: Finished test ::: test4
+2021-12-21 22:19:52,336 INFO u.Log [main] BaseClass :: BeforeMethod :: Creating extent test for test5
+2021-12-21 22:19:52,337 INFO u.Log [main] CustomITestListener :: New Test Started test5
+2021-12-21 22:19:52,337 INFO u.Log [main] Test1Class :: test2 Method :: dataProvider
+2021-12-21 22:19:52,683 INFO u.Log [main] CustomITestListener :: onTestSuccess Method test5
+2021-12-21 22:19:52,684 INFO u.Log [main] AfterMethod:: Finished test ::: test5
+2021-12-21 22:19:52,685 INFO u.Log [main] BaseClass :: @AfterClass:: closing driverInstance
+2021-12-21 22:19:53,012 INFO u.Log [main] BaseClass :: afterTest
+2021-12-21 22:19:53,012 INFO u.Log [main] CustomITestListener :: onFinish method started TestNGNAME
+2021-12-21 22:19:53,029 INFO u.Log [main] BaseClass :: AfterSuite:: flushing extent report
+2021-12-21 22:19:53,319 INFO u.Log [main] BaseClass :: AfterSuite:: softAssert.assertAll()
+2021-12-21 22:19:53,319 INFO u.Log [main] BaseClass :: AfterSuite:: Opening the report automatically using Desktop class of the java.awt
